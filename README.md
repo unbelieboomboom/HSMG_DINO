@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# HSMG_DINO
-HSMGDINO is a vision-language multimodal detector designed for environmental perception in automated driving systems.
-=======
-
 ## Introduction
 
 HSMGDINO is a vision-language multimodal detector designed for environmental perception
@@ -67,4 +62,4 @@ dataset: MS COCO 2017
 ## Warning
 The code is being refactored to ensure standardization, and both the code and the trained
 models (which may contain some bugs) will continue to be updated.
->>>>>>> 531ad9f (First submit)
+
